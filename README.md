@@ -1,4 +1,4 @@
-# Ilcorsaronero Angular 9 + static prerender Universal + library
+# Angular 9 + static prerender Universal + library
 
 This is a base project with static prerender + project library
 
